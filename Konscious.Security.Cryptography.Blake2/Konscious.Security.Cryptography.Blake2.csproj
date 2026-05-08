@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <Description>An implementation of Blake2 for .NET that integrates with the standard crypto libraries</Description>
-    <Copyright>(c) 2026 Keef Aragon</Copyright>
+    <Copyright>©️ 2026 Keef Aragon</Copyright>
     <AssemblyTitle>Konscious.Security.Cryptography.Blake2</AssemblyTitle>
     <VersionPrefix>1.1.2</VersionPrefix>
     <Authors>Keef Aragon</Authors>
